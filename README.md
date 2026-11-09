@@ -27,7 +27,7 @@ Screenshots were taken on a Galaxy Tab A 8.0 using the app's Preview mode, so th
 - **Opens by itself:** comes to the front 3 seconds after a music app starts playing.
 - **Night dim:** lowers the brightness on the clock from 11 PM to 6 AM.
 
-Afterglow reads the song from Android's media sessions, so it can work with most players. Display names and auto-open are set up for Spotify, YouTube Music, JioSaavn, Gaana, Wynk, SoundCloud, Apple Music, Amazon Music, Samsung Music and Poweramp. YouTube is recognised too, but doesn't trigger auto-open.
+Afterglow reads the song from Android's media sessions, so it can work with most players. Auto-open is set up for Spotify, YouTube Music, JioSaavn, Gaana, Wynk, SoundCloud, Apple Music, Amazon Music, Samsung Music and Poweramp. YouTube videos show on the display too, but don't trigger auto-open.
 
 ## Gestures
 
@@ -70,6 +70,8 @@ The release build is signed with the debug key, which is fine for your own devic
 ## Setup on the tablet
 
 Open the app and long-press the screen to reach Setup. Each row links to the Android setting it needs.
+
+![Setup screen listing the permissions and options](docs/screenshots/setup.jpg)
 
 | Setup row | Android permission | What it's for |
 | --- | --- | --- |
